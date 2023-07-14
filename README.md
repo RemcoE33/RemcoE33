@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center">
+    <img width="200" src="./RemcoE33.png" alt="RemcoE33">
+</p>
+
+
+### Hi there! Contact me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/remco-edelenbos/">
@@ -12,10 +17,18 @@
 
 ---
 
-### :skier: About Remco :
+### :skier: RemcoE33 :
 
-Someting about me!
+I love to crossfit to keep in shape and my mind clear and sharp. Go out and do stuff with my two beautifull girls and my amazing wife.
 
+I work for a private equity company. From there I support the companies in our portfolio with IT. Implementing new software, connecting systems together, collect data, BI and all the little thinks that comes with it. So i'm the guy that sits between the entrepreneur and the company that helps us build stuff.
+
+#### What do i myself :
+
+ - Connecting system together with the help of `Go` deployed in `Google Cloud Run`. 
+ - For the companies that are on the `Google Workspace` (they are smart :wink:) I can create direct impact by utilizing `Apps scripts`, from simple data fetching to custom function that does data maniputation.
+ - Internal web based tools. For example a tool to log incomming Bio Coffee beans and produtions. Where it is maditory to keep track whick ICO (some kind of bio reference) is in what production. For this I love `Go` with `SvelteKit` and `TailwindCSS`. Svelte with the static adapter and embedd the files in the go binary. `Dockerize` it and push to `Cloud Run`.
+ - 
 
 ---
 
@@ -32,7 +45,7 @@ Someting about me!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg"  title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="40" height="40"/>&nbsp;
 </div>
