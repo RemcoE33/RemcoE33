@@ -30,7 +30,7 @@ I work for a private equity company. From there I support the companies in our p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"                   title="Go"             alt="Go"             width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud"   alt="Google Cloud"   width="40" height="40"/>&nbsp;
   <img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"           title="Docker"         alt="Docker"         width="40" height="40"/>&nbsp;
-  <img scr="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"           title="Svelte"         alt="Svelte"         width="40" height="40"/>&nbsp;
+  <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" title="Svelte"         alt="Svelte"         width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"    title="TailwindCSS"    alt="TailwindCSS"    width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"             title="Html5"          alt="Html5"          width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"           title="NodeJS"         alt="NodeJS"         width="40" height="40"/>&nbsp;
