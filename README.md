@@ -1,6 +1,5 @@
 <div id="badges" align="center">
   <img width="200" src="./RemcoE33.png" alt="RemcoE33">
-  <h2>Hi there!</h2> &nbsp;
   <a href="https://www.linkedin.com/in/remco-edelenbos/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,7 +18,9 @@ I work for a private equity company. From there I support the companies in our p
 - Connecting system together with the help of `Go` deployed in `Google Cloud Run`.
 - For the companies that are on the `Google Workspace` (they are smart :wink:) I can create direct impact by utilizing `Apps scripts`, from simple data fetching to custom function that does data maniputation.
 - Internal web based tools. For example a tool to log incomming Bio Coffee beans and produtions. Where it is maditory to keep track whick ICO (some kind of bio reference) is in what production. For this I love `Go` with `SvelteKit` and `TailwindCSS`. Svelte with the static adapter and embedd the files in the go binary. `Dockerize` it and push to `Cloud Run`.
-- ***
+
+
+---
 
 ### Tech Stack :
 
